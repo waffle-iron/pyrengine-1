@@ -1,8 +1,0 @@
-{
-  "name": "pyrengine",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:pyre-io/pyrengine.git",
-  "author": "JR du Randt <jrdurandt@protonmail.com>",
-  "license": "MIT"
-}
